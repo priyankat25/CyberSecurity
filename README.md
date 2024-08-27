@@ -1,4 +1,4 @@
-#CyberSecurity
+# Cyber Security
 
 Imagine you're a software engineer working for a cybersecurity company. Your team is tasked with developing a program to validate the integrity of security protocols in textual representations. Specifically, you're working on a function to ensure that parentheses, square brackets, and curly braces are properly balanced in strings.
 
